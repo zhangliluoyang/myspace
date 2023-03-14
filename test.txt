@@ -1,0 +1,9 @@
+
+test adding a file to github repo through command line.
+
+
+note: basic VI editor commands --- enter:new line; 'i': insert mode for writing;'esc': exit insert mode and return to command mode.
+in command mode: 
+':wq' or 'ZZ' — Save and quit/exit vi.
+':q!' — Quit vi and do not save changes.
+
